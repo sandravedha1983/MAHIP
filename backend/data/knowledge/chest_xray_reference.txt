@@ -1,0 +1,13 @@
+Chest X-ray Research Reference
+
+Chest radiography is an imaging examination commonly used to evaluate structures within the chest.
+
+Radiology reports may describe findings such as lung opacity, consolidation, pleural effusion, pneumothorax, or other abnormalities.
+
+Chest X-ray findings should be interpreted together with the patient's clinical history, symptoms, physical examination, and other relevant investigations.
+
+Pneumonia may be associated with imaging findings such as lung opacity or consolidation. However, an imaging finding alone does not establish a definitive diagnosis.
+
+AI-based chest X-ray classification can provide research-oriented decision support, but predictions may include false-positive and false-negative results.
+
+AI-generated image classifications should be reviewed by a qualified healthcare professional and should not be treated as a definitive medical diagnosis.

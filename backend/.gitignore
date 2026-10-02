@@ -1,0 +1,13 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.env.*
+.vscode/
+uploads/
+tmp/
+*.pt
+*.pth
+*.onnx

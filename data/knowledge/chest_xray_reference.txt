@@ -1,0 +1,33 @@
+Chest X-ray research reference
+
+Chest radiography is commonly used as an imaging examination of the chest.
+
+Radiology interpretation may describe findings such as lung opacity,
+consolidation, pleural effusion, pneumothorax, or other abnormalities.
+
+A chest X-ray classification model may assist with research-oriented
+image classification, but its output should not be treated as a definitive
+clinical diagnosis.
+
+Pneumonia can have imaging findings involving lung opacity or consolidation,
+but imaging findings must be interpreted together with clinical history,
+symptoms, examination, and other relevant investigations.
+
+An AI model may produce false positive and false negative predictions.
+Professional clinical interpretation remains necessary.Chest X-ray research reference
+
+Chest radiography is commonly used as an imaging examination of the chest.
+
+Radiology interpretation may describe findings such as lung opacity,
+consolidation, pleural effusion, pneumothorax, or other abnormalities.
+
+A chest X-ray classification model may assist with research-oriented
+image classification, but its output should not be treated as a definitive
+clinical diagnosis.
+
+Pneumonia can have imaging findings involving lung opacity or consolidation,
+but imaging findings must be interpreted together with clinical history,
+symptoms, examination, and other relevant investigations.
+
+An AI model may produce false positive and false negative predictions.
+Professional clinical interpretation remains necessary.
